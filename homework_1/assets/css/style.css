@@ -13,6 +13,7 @@ main{
     padding: 05px 20px 05px 20px;
     overflow: auto;
     height: auto;
+    width: 960px;
 }
 
 header{
@@ -26,9 +27,8 @@ header{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
-.header{
-    margin: 0 auto;
-    width: 960px;
+.header1{
+    margin-left: 30%;
 }
 
 .name{
@@ -37,12 +37,16 @@ header{
     float:left;
     width: 220px;
     text-align: center;
+    margin-left: 15%;
+}
+
+#links{
+    margin-right: 100px;
 }
 
 nav{
     float: right; 
-    padding: 10px; 
-    margin: auto;
+    padding: 10px;
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
