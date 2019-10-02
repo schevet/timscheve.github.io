@@ -1,4 +1,4 @@
-body{
+/* body{
     background-image: url("../images/concrete_seamless.png");
     margin: 0;
     padding: 0;
@@ -99,7 +99,7 @@ input {
 }
 
 .portfolio {
-    width: 150px;
+    width: 150px;s
     height: 150px;
     object-fit: cover;
     margin: 10px;
@@ -107,4 +107,25 @@ input {
 
 h3 {
     position: absolute;
+}
+
+} */
+
+
+.name_brand{
+    background-color: teal;
+    color: white;
+    margin: 0;
+    padding: 2px;
+    height: 100%;
+}
+
+.navbar {
+    padding-top: 0px;
+    padding-bottom:0px;
+
+}
+
+.navbar-nav{
+    color: yellow;
 }
